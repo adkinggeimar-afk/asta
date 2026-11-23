@@ -1,0 +1,6 @@
+{
+  "name": "ChronoCast",
+  "description": "Persistent server-side countdown studio and 24/7 YouTube Live RTMP streamer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
